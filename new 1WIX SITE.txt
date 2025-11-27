@@ -1,0 +1,787 @@
+<div class="page-wrap">
+  <h1 class="main-title">Gadget Guide 2025 – מוצרים חכמים ב-10 קטגוריות</h1>
+
+  <!-- ===== CSS בסיסי ===== -->
+  <style>
+    .page-wrap {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 32px 16px 64px;
+      box-sizing: border-box;
+    }
+    .page-wrap * { box-sizing: inherit; }
+
+    .main-title {
+      text-align: center;
+      font-size: 28px;
+      margin-bottom: 32px;
+      color: #041226;
+    }
+    .category-section {
+      margin-bottom: 56px;
+      padding: 24px 16px;
+      border-radius: 24px;
+      background: rgba(255,255,255,0.9);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+    }
+    .cat-title {
+      font-size: 24px;
+      margin: 0 0 8px;
+      color: #0d4d91;
+    }
+    .cat-sub {
+      margin: 0 0 20px;
+      color: #555;
+      font-size: 14px;
+    }
+    .products-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0,1fr));
+      gap: 18px;
+    }
+    @media (max-width: 900px) {
+      .products-grid { grid-template-columns: repeat(2, minmax(0,1fr)); }
+    }
+    @media (max-width: 600px) {
+      .products-grid { grid-template-columns: 1fr; }
+    }
+    .product-box {
+      background: #f8fafc;
+      border-radius: 18px;
+      padding: 14px 14px 18px;
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+      min-height: 260px;
+    }
+    .product-img {
+      width: 100%;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 12px;
+      background: #e2e8f0;
+      margin-bottom: 10px;
+    }
+    .product-title {
+      font-size: 15px;
+      margin: 4px 0 6px;
+      font-weight: 600;
+      color: #111827;
+    }
+    .product-desc {
+      font-size: 13px;
+      margin: 0 0 10px;
+      color: #4b5563;
+      flex: 1;
+    }
+    .product-btn {
+      display: inline-block;
+      text-align: center;
+      padding: 8px 10px;
+      border-radius: 999px;
+      background: #0073e6;
+      color: #fff;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 14px;
+      margin-top: 4px;
+    }
+    .product-btn:hover { background:#005bb5; }
+    .disclosure {
+      font-size: 11px;
+      color: #6b7280;
+      margin: 6px 0 0;
+      text-align: center;
+    }
+  </style>
+
+  <!-- ========== 1. AI WEARABLES ========== -->
+  <div class="category-section" id="ai-wearables">
+    <h2 class="cat-title">AI Wearables</h2>
+    <p class="cat-sub">שעונים חכמים, טבעות ניטור ובריאות לבישים.</p>
+
+    <div class="products-grid">
+      <div class="product-box">
+        <img src="" class="product-img">
+        <h3 class="product-title">Garmin fēnix® 8 – 47 mm AMOLED Sapphire Premium Multisport GPS Smartwatch</h3>
+        <p class="product-desc">שעון מולטי-ספורט פרימיום עם GPS ותצוגת AMOLED.</p>
+        <a href="https://amzn.to/4nxVlmz" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מאמזון.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="" class="product-img">
+        <h3 class="product-title">Samsung Galaxy Watch Ultra</h3>
+        <p class="product-desc">שעון חכם עמיד, מתאים לאימונים קשים וליומיום.</p>
+        <a href="https://amzn.to/3LHcZHf" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מאמזון.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="" class="product-img">
+        <h3 class="product-title">Garmin Forerunner 965</h3>
+        <p class="product-desc">שעון ריצה מתקדם עם ניתוח ביצועים עמוק.</p>
+        <a href="https://amzn.to/4opZ5Ii" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מאמזון.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="" class="product-img">
+        <h3 class="product-title">Google Pixel Watch 3</h3>
+        <p class="product-desc">שעון חכם של גוגל עם אינטגרציה מלאה לאנדרואיד.</p>
+        <a href="https://amzn.to/47TQnfn" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מאמזון.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="" class="product-img">
+        <h3 class="product-title">Oura Ring Gen 3 Horizon</h3>
+        <p class="product-desc">טבעת חכמה למעקב שינה ובריאות 24/7.</p>
+        <a href="https://amzn.to/4hHeCAU" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מאמזון.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="" class="product-img">
+        <h3 class="product-title">Whoop 4.0</h3>
+        <p class="product-desc">רצועת ניטור ביצועים, התאוששות ושינה לספורטאים.</p>
+        <a href="https://amzn.to/47tnxkw" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מאמזון.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="" class="product-img">
+        <h3 class="product-title">Apple Watch SE (2nd Gen)</h3>
+        <p class="product-desc">שעון אפל משתלם עם רוב הפיצ’רים החשובים.</p>
+        <a href="https://amzn.to/3LnrjVm" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מאמזון.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="" class="product-img">
+        <h3 class="product-title">Suunto Vertical Titanium</h3>
+        <p class="product-desc">שעון שטח טיטניום חזק עם ניווט מתקדם.</p>
+        <a href="https://amzn.to/4oUsFFJ" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מאמזון.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="" class="product-img">
+        <h3 class="product-title">Garmin Venu 3S</h3>
+        <p class="product-desc">שעון חכם לאורח חיים בריא עם מעקב כושר ושינה.</p>
+        <a href="https://amzn.to/3WCixoY" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מאמזון.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="" class="product-img">
+        <h3 class="product-title">Fitbit Sense 2</h3>
+        <p class="product-desc">שעון כושר עם דגש על ניהול סטרס ובריאות הלב.</p>
+        <a href="https://amzn.to/3Jexf2s" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מאמזון.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========== 2. NEW MOTHERS ========== -->
+  <div class="category-section" id="new-mothers">
+    <h2 class="cat-title">New Mothers</h2>
+    <p class="cat-sub">גאדג'טים חכמים לאימהות ותינוקות.</p>
+    <div class="products-grid">
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Nanit Pro Smart Baby Monitor</h3><p class="product-desc">מוניטור תינוק חכם עם וידאו וניתוח שינה.</p><a href="https://amzn.to/47Vj8Z2" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Willow Go Wearable Breast Pump</h3><p class="product-desc">משאבת חלב לבישה לניידות ונוחות.</p><a href="https://amzn.to/4nEFhQ6" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">SNOO Smart Sleeper Bassinet</h3><p class="product-desc">עריסה חכמה שמרגיעה את התינוק אוטומטית.</p><a href="https://amzn.to/47BDYeD" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Baby Brezza Formula Pro Advanced</h3><p class="product-desc">מכונה להכנת תחליף חלב בלחיצת כפתור.</p><a href="https://amzn.to/47E1Yhy" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Hatch Restore 2 Sunrise Alarm Clock</h3><p class="product-desc">שעון אור זריחה עם רעשי רקע נעימים.</p><a href="https://amzn.to/47m342t" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Owlet Dream Sock Smart Baby Monitor</h3><p class="product-desc">גרב חכמה למעקב נשימה ולב.</p><a href="https://amzn.to/47ViHOo" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Doona Infant Car Seat & Stroller</h3><p class="product-desc">כסא בטיחות שהופך לעגלה תוך שניות.</p><a href="https://amzn.to/47LfIXU" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">FridaBaby Bitty Bundle of Joy</h3><p class="product-desc">ערכת מוצרים חכמים לטיפול בתינוק.</p><a href="https://amzn.to/4oW4zKN" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Bumbleride Indie Stroller</h3><p class="product-desc">עגלה קלה וידידותית לטיולים.</p><a href="https://amzn.to/4nErlp7" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">4moms Cleanwater Tub</h3><p class="product-desc">אמבט חכם לתינוק עם זרימת מים רציפה.</p><a href="https://amzn.to/4hTWsfh" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+    </div>
+  </div>
+
+  <!-- ========== 3. SMART HOME ========== -->
+  <div class="category-section" id="smart-home">
+    <h2 class="cat-title">Smart Home</h2>
+    <p class="cat-sub">בית חכם, תאורה, מצלמות ושקעים.</p>
+    <div class="products-grid">
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Amazon Echo Show 10 (3rd Gen)</h3><p class="product-desc">מסך חכם עם אלקסה לבית.</p><a href="https://amzn.to/47LW9ia" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Google Nest Learning Thermostat</h3><p class="product-desc">תרמוסטט חכם הלומד את ההרגלים שלך.</p><a href="https://amzn.to/4nGtNvA" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Ring Video Doorbell Pro 2</h3><p class="product-desc">פעמון דלת עם וידאו והתראות חכמות.</p><a href="https://amzn.to/4oMnffF" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Wyze Cam Pan V3</h3><p class="product-desc">מצלמת אבטחה זולה עם תנועה וסיבוב.</p><a href="https://amzn.to/4LjDy5j" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Kasa Smart Plug HS103</h3><p class="product-desc">שקע חכם לניתוק והדלקת מכשירים מרחוק.</p><a href="https://amzn.to/47BoNSP" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Philips Hue White and Color Ambiance</h3><p class="product-desc">ערכת תאורה חכמה צבעונית.</p><a href="https://amzn.to/3Jv31Iw" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Yale Assure Lock 2</h3><p class="product-desc">מנעול חכם עם קוד ומובייל.</p><a href="https://amzn.to/4oVESdk" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">iRobot Roomba j7+</h3><p class="product-desc">שואב רובוטי חכם עם ריקון עצמי.</p><a href="https://amzn.to/4nI0f0x" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Aqara Door and Window Sensor</h3><p class="product-desc">חיישן פתיחת דלת/חלון לבית חכם.</p><a href="https://amzn.to/4oY5K5X" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Rachio 3 Smart Sprinkler Controller</h3><p class="product-desc">בקר השקיה חכם לחיסכון במים.</p><a href="https://amzn.to/47pI7kQ" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+    </div>
+  </div>
+
+  <!-- ========== 4. GAMING ========== -->
+  <div class="category-section" id="gaming">
+    <h2 class="cat-title">Gaming</h2>
+    <p class="cat-sub">ציוד גיימינג ובידור.</p>
+    <div class="products-grid">
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">PlayStation 5 DualSense Edge Controller</h3><p class="product-desc">בקר פרימיום לפלייסטיישן 5.</p><a href="https://amzn.to/4opVp2U" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Elgato Stream Deck XL</h3><p class="product-desc">לוח כפתורים חכם לסטרימרים ויוצרים.</p><a href="https://amzn.to/3Jt5Z4A" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Razer Kishi V2 for Android & iPhone</h3><p class="product-desc">בקר גיימינג לטלפון נייד.</p><a href="https://amzn.to/4oR2i6W" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Logitech G Pro X Superlight 2</h3><p class="product-desc">עכבר גיימינג אלחוטי סופר קל.</p><a href="https://amzn.to/4hB8k1C" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Astro A50 X Wireless Headset</h3><p class="product-desc">אוזניות גיימינג אלחוטיות איכותיות.</p><a href="https://amzn.to/4oW6oEa" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Nintendo Switch Pro Controller</h3><p class="product-desc">בקר פרו רשמי לנינטנדו סוויץ'.</p><a href="https://amzn.to/3LlF9xL" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">HyperX QuadCast S Microphone</h3><p class="product-desc">מיקרופון USB עם RGB לסטרימינג.</p><a href="https://amzn.to/47m6K0r" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Secretlab Titan Evo 2022</h3><p class="product-desc">כיסא גיימינג ארגונומי פרימיום.</p><a href="https://amzn.to/47N9o9f" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Samsung Odyssey Neo G9</h3><p class="product-desc">מסך אולטרה-רחב 49" לגיימינג.</p><a href="https://amzn.to/47s9U8G" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Meta Quest 3</h3><p class="product-desc">קסדת מציאות מדומה עצמאית.</p><a href="https://amzn.to/47N9qN3" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+    </div>
+  </div>
+
+  <!-- ========== 5. FITNESS ========== -->
+  <div class="category-section" id="fitness">
+    <h2 class="cat-title">Fitness & Health</h2>
+    <p class="cat-sub">ציוד כושר ובריאות חכם לבית.</p>
+    <div class="products-grid">
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">TheraGun Prime</h3><p class="product-desc">אקדח עיסוי להתאוששות שרירים.</p><a href="https://amzn.to/4oP7yT7" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Bowflex SelectTech 552 Dumbbells</h3><p class="product-desc">משקולות מתכווננות חכמות.</p><a href="https://amzn.to/47F2uTf" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Peloton Bike+</h3><p class="product-desc">אופני ספינינג חכמים עם שיעורים חיים.</p><a href="https://amzn.to/4oV9V0t" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Tonal Smart Home Gym</h3><p class="product-desc">מערכת כושר חכמה על הקיר.</p><a href="https://amzn.to/47Ld3Kx" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Garmin Index S2 Smart Scale</h3><p class="product-desc">משקל חכם למדידת מדדי גוף.</p><a href="https://amzn.to/3Jv6fGq" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Tempo Studio</h3><p class="product-desc">מסך כושר חכם עם אימונים מודרכים.</p><a href="https://amzn.to/3LgZ6B8" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Echelon Reflect</h3><p class="product-desc">מראת כושר חכמה לאימוני בית.</p><a href="https://amzn.to/4oW7tK5" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Hydrow Rower</h3><p class="product-desc">מכשיר חתירה חכם עם שיעורי וידאו.</p><a href="https://amzn.to/3JmB4dC" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Whoop Strap 4.0</h3><p class="product-desc">רצועת ניטור עומס והתאוששות.</p><a href="https://amzn.to/47tnxkw" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Core Meditation Trainer</h3><p class="product-desc">מכשיר חכם להדרכת מדיטציה.</p><a href="https://amzn.to/4nEGV6L" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+    </div>
+  </div>
+
+  <!-- ========== 6. AUDIO ========== -->
+  <div class="category-section" id="audio">
+    <h2 class="cat-title">Audio</h2>
+    <p class="cat-sub">אוזניות ורמקולים חכמים.</p>
+    <div class="products-grid">
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Sony WH-1000XM5</h3><p class="product-desc">אוזניות ביטול רעשים מהטובות בשוק.</p><a href="https://amzn.to/47t8iFm" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Apple AirPods Pro (2nd Gen)</h3><p class="product-desc">אוזניות TWS עם ביטול רעשים משופר.</p><a href="https://amzn.to/4op2h9L" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Bose QuietComfort Ultra Headphones</h3><p class="product-desc">אוזניות נוחות במיוחד עם סאונד עשיר.</p><a href="https://amzn.to/3Jt9qVl" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Sennheiser Momentum 4 Wireless</h3><p class="product-desc">אוזניות אלחוטיות עם צליל פרימיום.</p><a href="https://amzn.to/47Lg7wD" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Audio-Technica ATH-M50xBT2</h3><p class="product-desc">גרסה אלחוטית לאוזניות האולפן המפורסמות.</p><a href="https://amzn.to/3WBL3bO" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">JBL Charge 6 Portable Speaker</h3><p class="product-desc">רמקול נייד חזק עם סוללה גדולה.</p><a href="https://amzn.to/4opQzWk" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Google Pixel Buds Pro</h3><p class="product-desc">אוזניות חכמות למשתמשי אנדרואיד.</p><a href="https://amzn.to/3LtG9tN" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Marshall Stockwell II</h3><p class="product-desc">רמקול נייד בעיצוב וינטג' של מרשל.</p><a href="https://amzn.to/47r3Sg0" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Ultimate Ears Wonderboom 3</h3><p class="product-desc">רמקול קטן עם סאונד חזק ועמידות למים.</p><a href="https://amzn.to/3V9P8kX" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Sonos Roam</h3><p class="product-desc">רמקול חכם נייד למערכת Sonos.</p><a href="https://amzn.to/3R3e9Fq" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+    </div>
+  </div>
+
+  <!-- ========== 7. PRODUCTIVITY ========== -->
+  <div class="category-section" id="productivity">
+    <h2 class="cat-title">Productivity</h2>
+    <p class="cat-sub">ציוד עבודה חכם למשרד ולבית.</p>
+    <div class="products-grid">
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Dell UltraSharp 34 Curved Monitor</h3><p class="product-desc">מסך קעור רחב לעבודה מרובה.</p><a href="https://amzn.to/47Nf0gZ" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Logitech MX Master 3S Mouse</h3><p class="product-desc">עכבר עבודה נוח ושקט.</p><a href="https://amzn.to/4nEJf7Z" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Keychron Q Pro Mechanical Keyboard</h3><p class="product-desc">מקלדת מכנית איכותית לכותבים וגיימרים.</p><a href="https://amzn.to/4oU8O9o" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Rocketbook Core Smart Notebook</h3><p class="product-desc">מחברת חכמה שניתנת למחיקה וסריקה לענן.</p><a href="https://amzn.to/3JkS3vI" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Fujitsu ScanSnap iX1600 Scanner</h3><p class="product-desc">סורק מסמכים מהיר למשרד.</p><a href="https://amzn.to/4opXfGj" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">CalDigit TS4 Thunderbolt Dock</h3><p class="product-desc">תחנת עגינה רבת חיבורים למחשבים.</p><a href="https://amzn.to/4hB8zJk" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">ReMarkable 2</h3><p class="product-desc">טאבלט כתיבה דיגיטלי דמוי נייר.</p><a href="https://amzn.to/3LnrsP1" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Ember Mug 2</h3><p class="product-desc">ספל חכם ששומר על חום הקפה.</p><a href="https://amzn.to/47t6W6U" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Autonomous SmartDesk Connect</h3><p class="product-desc">שולחן עמידה חשמלי חכם.</p><a href="https://amzn.to/3WBYd9o" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Blue Yeti USB Microphone</h3><p class="product-desc">מיקרופון פופולרי לפודקאסטים וסטרימינג.</p><a href="https://amzn.to/47tF6Qf" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+    </div>
+  </div>
+
+  <!-- ========== 8. PHOTOGRAPHY ========== -->
+  <div class="category-section" id="photography">
+    <h2 class="cat-title">Photography</h2>
+    <p class="cat-sub">מצלמות, רחפנים וציוד צילום.</p>
+    <div class="products-grid">
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Sony A7R V Mirrorless Camera</h3><p class="product-desc">מצלמת פול-פריים ברזולוציה גבוהה.</p><a href="https://amzn.to/4oV8H6y" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">DJI Mini 4 Pro Drone</h3><p class="product-desc">רחפן קומפקטי עם צילום מתקדם.</p><a href="https://amzn.to/4oUnI3H" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">GoPro HERO12 Black</h3><p class="product-desc">מצלמת אקשן קשוחה לספורט וטיולים.</p><a href="https://amzn.to/4op5gP8" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Insta360 X4</h3><p class="product-desc">מצלמת 360° חכמה לצילום יצירתי.</p><a href="https://amzn.to/47E8n7L" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Canon EOS R6 Mark II</h3><p class="product-desc">מצלמה מהירה לצילום סטילס ווידאו.</p><a href="https://amzn.to/4hHq1mP" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Rode Wireless GO II</h3><p class="product-desc">מערכת מיקרופונים אלחוטית קומפקטית.</p><a href="https://amzn.to/4oP7N1v" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Peak Design Everyday Backpack</h3><p class="product-desc">תרמיל צילום מודולרי ועמיד.</p><a href="https://amzn.to/47B3S9n" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Manfrotto Befree Advanced Tripod</h3><p class="product-desc">חצובה קלה לנסיעות וצילום.</p><a href="https://amzn.to/4oU25gH" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Adobe Creative Cloud All Apps</h3><p class="product-desc">חבילת התוכנות המלאה לעריכה ויצירה.</p><a href="https://amzn.to/3Jv9sL2" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">SanDisk Extreme PRO SSD</h3><p class="product-desc">כונן SSD חיצוני מהיר לגיבויים.</p><a href="https://amzn.to/4opVb2K" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+    </div>
+  </div>
+
+  <!-- ========== 9. ECO TECH ========== -->
+  <div class="category-section" id="eco-tech">
+    <h2 class="cat-title">Eco Tech</h2>
+    <p class="cat-sub">טכנולוגיה ירוקה וחיסכון במשאבים.</p>
+    <div class="products-grid">
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">LuminAID PackLite Max 2-in-1</h3><p class="product-desc">פנס ושקע טעינה סולארי מתקפל.</p><a href="https://amzn.to/47Nfz9Y" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Ecobee Smart Thermostat Premium</h3><p class="product-desc">תרמוסטט חוסך אנרגיה לבית.</p><a href="https://amzn.to/47NfD9w" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Blueland The Clean Essentials</h3><p class="product-desc">ערכת ניקיון ידידותית לסביבה.</p><a href="https://amzn.to/47VjWwU" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Biolite CampStove 2+</h3><p class="product-desc">כירת מחנה שמייצרת גם חשמל.</p><a href="https://amzn.to/47t8pP3" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Smart Energy Monitoring Plug</h3><p class="product-desc">שקע למדידת צריכת חשמל.</p><a href="https://amzn.to/4oW84k2" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Bamboo Charging Station</h3><p class="product-desc">עמדת טעינה מעץ במבוק מסודר.</p><a href="https://amzn.to/4op2pQY" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Rechargeable Batteries (Eneloop Pro)</h3><p class="product-desc">סט סוללות נטענות איכותיות.</p><a href="https://amzn.to/4oVf2xM" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Sodastream E-DUO</h3><p class="product-desc">מכשיר סודה חכם לשימוש בבית.</p><a href="https://amzn.to/47BDYlG" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">AeroGarden Harvest Elite</h3><p class="product-desc">גינת צמחים חכמה על השיש.</p><a href="https://amzn.to/47m7j9J" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Compost Bin (Full Circle)</h3><p class="product-desc">פח קומפוסט לבית למיחזור פסולת אורגנית.</p><a href="https://amzn.to/4nErtWv" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+    </div>
+  </div>
+
+  <!-- ========== 10. KITCHEN TECH ========== -->
+  <div class="category-section" id="kitchen-tech">
+    <h2 class="cat-title">Smart Kitchen</h2>
+    <p class="cat-sub">מוצרי מטבח חכמים ואיכותיים.</p>
+    <div class="products-grid">
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Anova Culinary Sous Vide Precision Cooker</h3><p class="product-desc">מכשיר סו-ויד לבישול מדויק.</p><a href="https://amzn.to/47E8r0H" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Smart Food Kitchen Scale (Cosori)</h3><p class="product-desc">משקל מטבח חכם לחישוב תזונתי.</p><a href="https://amzn.to/4oP7Hj9" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Breville BTA820XL Toaster</h3><p class="product-desc">טוסטר איכותי עם שליטה מדויקת.</p><a href="https://amzn.to/4hB7tQf" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Instant Pot Pro Plus</h3><p class="product-desc">סיר לחץ חכם רב-תכליתי.</p><a href="https://amzn.to/4nE3O3I" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Vitamix Ascent Series A3500</h3><p class="product-desc">בלנדר עוצמתי מקצועי.</p><a href="https://amzn.to/47N9X02" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Ninja Foodi Smart XL Grill</h3><p class="product-desc">גריל פנימי חכם לפנים הבית.</p><a href="https://amzn.to/47F2z0S" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">SodaStream One Touch</h3><p class="product-desc">מכשיר סודה חשמלי בלחיצת כפתור.</p><a href="https://amzn.to/4oR2t9U" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Keurig K-Elite Coffee Maker</h3><p class="product-desc">מכונת קפה בקפסולות עם אפשרויות חום שונות.</p><a href="https://amzn.to/47Vb0vX" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Breville Smart Oven Air Fryer</h3><p class="product-desc">תנור משולב טוסטר ואייר-פריי.</p><a href="https://amzn.to/4oUsS4S" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+      <div class="product-box"><img src="" class="product-img"><h3 class="product-title">Moka Pot (Bialetti)</h3><p class="product-desc">מקינטה קלאסית לקפה על הגז.</p><a href="https://amzn.to/47V87mP" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a><p class="disclosure">* קישור שותפים.</p></div>
+    </div>
+  </div>
+
+  <p class="disclosure">
+    * חלק מהקישורים בדף הם קישורי שותפים (Affiliate). אין עליך עלות נוספת – ייתכן שאקבל עמלה קטנה אם תבצע רכישה דרך הקישור.
+  </p>
+    <!-- ========== ALIEXPRESS: AI GADGETS ========== -->
+  <div class="category-section" id="ali-ai">
+    <h2 class="cat-title">AliExpress – AI Gadgets</h2>
+    <p class="cat-sub">גאדג'טים חכמים מ-AliExpress בתחום ה-AI.</p>
+
+    <div class="products-grid">
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sddb589d92f7b45e193fa498932d99681v.jpg" class="product-img" alt="Smart Zikr Ring">
+        <h3 class="product-title">Smart Zikr Ring</h3>
+        <p class="product-desc">טבעת תפילה חכמה עם תצוגה ומעקב.</p>
+        <a href="https://s.click.aliexpress.com/e/_c4fg9rX3" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S57897098206746edae0c881b65dcf4d4v.jpg" class="product-img" alt="Xiaomi GPT Glasses">
+        <h3 class="product-title">Xiaomi GPT Glasses</h3>
+        <p class="product-desc">משקפי AI חכמים לתרגום ומידע בזמן אמת.</p>
+        <a href="https://s.click.aliexpress.com/e/_c2uT3Bbo" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S3f736beeec87440238bfa51f0e1859cadh.png" class="product-img" alt="Realtime Translation Headset">
+        <h3 class="product-title">Realtime Translation Headset</h3>
+        <p class="product-desc">אוזניות תרגום סימולטני חכמות.</p>
+        <a href="https://s.click.aliexpress.com/e/_c9Ih0n" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S38f6624abdcf422aa081dac40af875ddy.png" class="product-img" alt="Rugged AI Smartwatch">
+        <h3 class="product-title">Rugged AI Smartwatch</h3>
+        <p class="product-desc">שעון חכם חזק ועמיד לשטח.</p>
+        <a href="https://s.click.aliexpress.com/e/_c3uekhk" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S6299f73c1b0c4921b2bc86a257a2f4bfb.jpg" class="product-img" alt="Two-Way AI Earbuds">
+        <h3 class="product-title">Two-Way AI Earbuds</h3>
+        <p class="product-desc">אוזניות AI דו־כיווניות לשיחות ותרגום.</p>
+        <a href="https://s.click.aliexpress.com/e/_c3uiPu" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S2ad1651767fb4945b8fa98ee564fa1527.jpg" class="product-img" alt="Fitness Tracker Bracelet">
+        <h3 class="product-title">Fitness Tracker Bracelet</h3>
+        <p class="product-desc">צמיד כושר חכם למעקב יומיומי.</p>
+        <a href="https://s.click.aliexpress.com/e/_c30hBEY" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S931894212aca407dace6a263ed045d099.png" class="product-img" alt="Electronic Prayer Ring">
+        <h3 class="product-title">Electronic Prayer Ring</h3>
+        <p class="product-desc">טבעת אלקטרונית לתפילה ומדיטציה.</p>
+        <a href="https://s.click.aliexpress.com/e/_c4DnHkSt" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S2ddf48761c694ab7a592a84ef6efa7e8s.jpg" class="product-img" alt="HD Audio Translator">
+        <h3 class="product-title">HD Audio Translator</h3>
+        <p class="product-desc">מכשיר תרגום נייד עם סאונד איכותי.</p>
+        <a href="https://s.click.aliexpress.com/e/_cmXGjXA" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S0fd1539fc57a464ab56b253b0f83482fo.png" class="product-img" alt="Ultra Thin Smartwatch">
+        <h3 class="product-title">Ultra Thin Smartwatch</h3>
+        <p class="product-desc">שעון חכם דק במיוחד עם עיצוב אלגנטי.</p>
+        <a href="https://s.click.aliexpress.com/e/_c2iK67n" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========== ALIEXPRESS: SMART HOME ========== -->
+  <div class="category-section" id="ali-smart-home">
+    <h2 class="cat-title">AliExpress – Smart Home</h2>
+    <p class="cat-sub">מוצרי בית חכם מתקדמים מעלי אקספרס.</p>
+
+    <div class="products-grid">
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S92923061156048b490001c3783fe0774E.jpg" class="product-img" alt="Learning Thermostat">
+        <h3 class="product-title">Learning Thermostat</h3>
+        <p class="product-desc">תרמוסטט חכם ללימוד דפוסי חימום וקירור.</p>
+        <a href="https://s.click.aliexpress.com/e/_cApmU9vn" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S79cf5f6146dd41bdad42cedbe593c332V.jpg" class="product-img" alt="Biometric Smart Lock">
+        <h3 class="product-title">Biometric Smart Lock</h3>
+        <p class="product-desc">מנעול ביומטרי חכם עם טביעת אצבע ופנים.</p>
+        <a href="https://s.click.aliexpress.com/e/_c4sb7tFL" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd2f843c212bc465082ff7683ee9be2e4z.jpg" class="product-img" alt="Solar AI Camera">
+        <h3 class="product-title">Solar AI Camera</h3>
+        <p class="product-desc">מצלמת אבטחה על אנרגיה סולארית עם AI.</p>
+        <a href="https://s.click.aliexpress.com/e/_cIjyIFL" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sff3322961163466cab914d6d0154e6a5R.jpg" class="product-img" alt="Palm Vein Smart Lock">
+        <h3 class="product-title">Palm Vein Smart Lock</h3>
+        <p class="product-desc">מנעול חכם עם זיהוי ורידי כף היד.</p>
+        <a href="https://s.click.aliexpress.com/e/_cQttVrcD" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S7bd45ddbfcd849098b950053c74ccc0dS.jpg" class="product-img" alt="Outdoor Smart Shade">
+        <h3 class="product-title">Outdoor Smart Shade</h3>
+        <p class="product-desc">וילון חוץ חכם להגנה משמש.</p>
+        <a href="https://s.click.aliexpress.com/e/_cbg9scqD" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S79a710b5f2f04ccea946ad0e395ec7014.jpg" class="product-img" alt="Off Grid Solar Kit">
+        <h3 class="product-title">Off Grid Solar Kit</h3>
+        <p class="product-desc">קיט סולארי לבית / קראוון ללא רשת חשמל.</p>
+        <a href="https://s.click.aliexpress.com/e/_cSuzjicH" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S8979dfc3645841ffa1f45cfb7e2c5d7bI.jpeg" class="product-img" alt="Tuya Smart Hub">
+        <h3 class="product-title">Tuya Smart Hub</h3>
+        <p class="product-desc">רכזת חכמה לשליטה בכל הבית.</p>
+        <a href="https://s.click.aliexpress.com/e/_c3wQucQn" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S43c1c5f4dc2e4f869311e0ef72ffd9d8G.jpg" class="product-img" alt="Portable Solar Station">
+        <h3 class="product-title">Portable Solar Station</h3>
+        <p class="product-desc">תחנת כוח ניידת ליציאה לשטח.</p>
+        <a href="https://s.click.aliexpress.com/e/_c4qfA0dH" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sab940d22c481476cbcdf92b77056b104v.jpg" class="product-img" alt="Vertical Smart Farm">
+        <h3 class="product-title">Vertical Smart Farm</h3>
+        <p class="product-desc">מערכת הידרופונית חכמה לגידול אנכי.</p>
+        <a href="https://s.click.aliexpress.com/e/_c3WKWQkr" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S9cd090bca7bd4aa596f1c3bee7acab20W.jpg" class="product-img" alt="Indoor Garden Kit">
+        <h3 class="product-title">Indoor Garden Kit</h3>
+        <p class="product-desc">ערכת גידול צמחים חכמה לבית.</p>
+        <a href="https://s.click.aliexpress.com/e/_c6tMVMf" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========== ALIEXPRESS: GAMING GEAR 2025 ========== -->
+  <div class="category-section" id="ali-gaming">
+    <h2 class="cat-title">AliExpress – Gaming Gear 2025</h2>
+    <p class="cat-sub">ציוד גיימינג עדכני מעלי אקספרס.</p>
+
+    <div class="products-grid">
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S566e8929edbd4aeab9ee87a13fd3087cS.jpg" class="product-img" alt="Gravastar Mechanical Keyboard">
+        <h3 class="product-title">Gravastar Mechanical Keyboard</h3>
+        <p class="product-desc">מקלדת גיימינג מכנית עם RGB מרהיב.</p>
+        <a href="https://s.click.aliexpress.com/e/_cle7TbnL" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S29923994505e47658eba3c0d8435f759P.jpg" class="product-img" alt="Portable Gaming Monitor">
+        <h3 class="product-title">Portable Gaming Monitor</h3>
+        <p class="product-desc">מסך גיימינג נייד בקצב רענון גבוה.</p>
+        <a href="https://s.click.aliexpress.com/e/_c4fpz7Zb" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S3acb1d2b524448eeb45fb33140ba8aecJ.jpg" class="product-img" alt="7.1 Surround Gaming Headset">
+        <h3 class="product-title">7.1 Surround Gaming Headset</h3>
+        <p class="product-desc">אוזניות גיימינג 7.1 עם מיקרופון ורב-צבעים.</p>
+        <a href="https://s.click.aliexpress.com/e/_cQ26i62L" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S58719281424a4bd6ac1e293b7e8a0305P.jpg" class="product-img" alt="High DPI Gaming Mouse">
+        <h3 class="product-title">High DPI Gaming Mouse</h3>
+        <p class="product-desc">עכבר גיימינג מדויק עם DPI גבוה.</p>
+        <a href="https://s.click.aliexpress.com/e/_cEw8gqCj" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sdd2ee50f728445f8ab2e25c6084bb09cG.png" class="product-img" alt="Hall Effect Controller">
+        <h3 class="product-title">Hall Effect Controller</h3>
+        <p class="product-desc">גיימפאד אלחוטי עם חיישני Hall מדויקים.</p>
+        <a href="https://s.click.aliexpress.com/e/_c4lMGKhL" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S3554330bcc484b389699480b9f779842h.jpg" class="product-img" alt="Mamba Hall Effect Controller">
+        <h3 class="product-title">Mamba One V2 Controller</h3>
+        <p class="product-desc">בקר גיימינג עם בסיס טעינה וסוללה חזקה.</p>
+        <a href="https://s.click.aliexpress.com/e/_c2wrGmW9" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S38b5d5613e9e4994bda9115ed0f2ff06X.png" class="product-img" alt="8KHz Gaming Mouse">
+        <h3 class="product-title">8KHz Gaming Mouse</h3>
+        <p class="product-desc">עכבר אולטרה-מהיר עם פולינג 8kHz.</p>
+        <a href="https://s.click.aliexpress.com/e/_cR3NTf" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sa8ff5695c7164d35b8f59177050b246cb.jpg" class="product-img" alt="Ambilight Sync Kit">
+        <h3 class="product-title">Ambilight Sync Kit</h3>
+        <p class="product-desc">ערכת תאורת Ambilight למסך הטלוויזיה.</p>
+        <a href="https://s.click.aliexpress.com/e/_cQdoMmM9" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S65135b0ee658407eb0c4445102ad11701.jpg" class="product-img" alt="AI Stream Deck">
+        <h3 class="product-title">AI Stream Deck</h3>
+        <p class="product-desc">בקר שולחני חכם לשליטה בשידורים.</p>
+        <a href="https://s.click.aliexpress.com/e/_c3llVpxuL" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/H0a76a5a217af4c8d896728f8d86a69dfp.jpg" class="product-img" alt="Redragon Combo Kit">
+        <h3 class="product-title">Redragon Combo Kit</h3>
+        <p class="product-desc">סט מקלדת + עכבר + משטח לגיימרים.</p>
+        <a href="https://s.click.aliexpress.com/e/_cl38e0zJ" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========== ALIEXPRESS: SMART KITCHEN ========== -->
+  <div class="category-section" id="ali-smart-kitchen">
+    <h2 class="cat-title">AliExpress – Smart Kitchen</h2>
+    <p class="cat-sub">גאדג'טים חכמים למטבח.</p>
+
+    <div class="products-grid">
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/Se0925bd7f08948d5ac9d265816695731B.jpg" class="product-img" alt="Electric Can/Bottle Opener">
+        <h3 class="product-title">Electric Can/Bottle Opener</h3>
+        <p class="product-desc">פותחן חשמלי לצנצנות ובקבוקים.</p>
+        <a href="https://s.click.aliexpress.com/e/_c9h6lTrT" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S0fef304441574ed79c70b51203945fe8F.jpg" class="product-img" alt="Automatic Soap Dispenser">
+        <h3 class="product-title">Automatic Soap Dispenser</h3>
+        <p class="product-desc">מתקן סבון אוטומטי לקיר.</p>
+        <a href="https://s.click.aliexpress.com/e/_cAVHSAIT" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sb900c316da43402f98609681886015020.jpg" class="product-img" alt="Smart Mug Warmer">
+        <h3 class="product-title">Smart Mug Warmer</h3>
+        <p class="product-desc">מחמם כוס חכם למשקאות חמים.</p>
+        <a href="https://s.click.aliexpress.com/e/_clxGB0BB" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S9b4f5bb6e59b4c48908fc619223cd594O.jpg" class="product-img" alt="Portable Mini Blender">
+        <h3 class="product-title">Portable Mini Blender</h3>
+        <p class="product-desc">בלנדר נייד להכנת שייקים.</p>
+        <a href="https://s.click.aliexpress.com/e/_cl3aZhtn" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sf7f95816ca024826b18c7c48b8042a28f.jpg" class="product-img" alt="Smart BBQ Thermometer">
+        <h3 class="product-title">Smart BBQ Thermometer</h3>
+        <p class="product-desc">מד חום חכם לבשר על האש.</p>
+        <a href="https://s.click.aliexpress.com/e/_c2QeHPfF" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S14fedfc425a34a9b8f15fa01321e0e2dp.jpg" class="product-img" alt="Wall Instant Dispenser">
+        <h3 class="product-title">Wall Instant Dispenser</h3>
+        <p class="product-desc">מתקן מים חמים מיידי לקיר.</p>
+        <a href="https://s.click.aliexpress.com/e/_cBWil67l" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S4b7801b95b87469b983f2776ad16842br.jpg" class="product-img" alt="Self-Heating Travel Mug">
+        <h3 class="product-title">Self-Heating Travel Mug</h3>
+        <p class="product-desc">כוס תרמית שמחממת את עצמה.</p>
+        <a href="https://s.click.aliexpress.com/e/_c32GzAgr" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S15430be5ac114ee88f109abc006fa04aC.jpg" class="product-img" alt="Smart Cup Cooler/Warmer">
+        <h3 class="product-title">Smart Cup Cooler/Warmer</h3>
+        <p class="product-desc">מתקן לרכב שמקרר או מחמם משקאות.</p>
+        <a href="https://s.click.aliexpress.com/e/_cKWwREI" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S44437602dc9d429da2a73bf059ffea33l.jpg" class="product-img" alt="Car Electric Mug/Kettle">
+        <h3 class="product-title">Car Electric Mug/Kettle</h3>
+        <p class="product-desc">כוס/קומקום חשמלי לרכב.</p>
+        <a href="https://s.click.aliexpress.com/e/_c0O3kE3" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sb20392f41b0448b5aa7f98fd5ccf21c3U.jpg" class="product-img" alt="Dual-Barrel Mini Washer">
+        <h3 class="product-title">Dual-Barrel Mini Washer</h3>
+        <p class="product-desc">מכונת כביסה קטנה לבגדים עדינים וגרביים.</p>
+        <a href="https://s.click.aliexpress.com/e/_c4OOgYxX" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========== ALIEXPRESS: FITNESS & HEALTH TECH ========== -->
+  <div class="category-section" id="ali-fitness">
+    <h2 class="cat-title">AliExpress – Fitness & Health Tech</h2>
+    <p class="cat-sub">טכנולוגיה חכמה לכושר ובריאות.</p>
+
+    <div class="products-grid">
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S804a5cbc526148e1b4ebbd2448c579b5b.jpg" class="product-img" alt="Smart Body Fat Scale">
+        <h3 class="product-title">Smart Body Fat Scale</h3>
+        <p class="product-desc">משקל חכם למדידת אחוזי שומן ומדדים נוספים.</p>
+        <a href="https://s.click.aliexpress.com/e/_c4LYD2IT" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S7380398ae4484ca69fe6f7933c722874M.png" class="product-img" alt="Smart Health Tracker Ring">
+        <h3 class="product-title">Smart Health Tracker Ring</h3>
+        <p class="product-desc">טבעת חכמה למדידת דופק, לחץ דם ועוד.</p>
+        <a href="https://s.click.aliexpress.com/e/_clzuqzpV" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sc67ebfa41d394b9198d706f0adc29068X.jpg" class="product-img" alt="Air Compression Recovery">
+        <h3 class="product-title">Air Compression Recovery Boots</h3>
+        <p class="product-desc">מגפי עיסוי לחץ להתאוששות רגליים.</p>
+        <a href="https://s.click.aliexpress.com/e/_cQalyqD" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S77253a788ed84b3aa711d69a3a61d1e2n.jpg" class="product-img" alt="Electric Massage Table">
+        <h3 class="product-title">Electric Massage Table</h3>
+        <p class="product-desc">מיטת טיפולים חשמלית מקצועית.</p>
+        <a href="https://s.click.aliexpress.com/e/_cAWfTsN" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S55233588d5e0432193026050ef4665a2Y.png" class="product-img" alt="Oral Red Light Therapy">
+        <h3 class="product-title">Oral Red Light Therapy</h3>
+        <p class="product-desc">מכשיר לטיפול אור אדום לחניכיים.</p>
+        <a href="https://s.click.aliexpress.com/e/_c41eJIt" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd3e33c989d7a4ff8b209ce69ac9940b2w.jpg" class="product-img" alt="Acupuncture TENS Unit">
+        <h3 class="product-title">Acupuncture TENS Unit</h3>
+        <p class="product-desc">מכשיר אלקטרותרפיה לשיכוך כאבים.</p>
+        <a href="https://s.click.aliexpress.com/e/_cAfEMkiZ" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S9e06820bbe8c4468a42eac64b8917c14s.jpg" class="product-img" alt="Walking Pad/Smart Treadmill">
+        <h3 class="product-title">Walking Pad / Smart Treadmill</h3>
+        <p class="product-desc">הליכון מתקפל לשימוש בבית ובמשרד.</p>
+        <a href="https://s.click.aliexpress.com/e/_c0rWLBT" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S25b8b3ca4f934bab970a51b2ce89d493G.jpg" class="product-img" alt="High Quality Foldable Treadmill">
+        <h3 class="product-title">Foldable Treadmill</h3>
+        <p class="product-desc">הליכון מתקפל איכותי לחדר כושר ביתי.</p>
+        <a href="https://s.click.aliexpress.com/e/_c4pT5Pnb" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sac5b25ccfa0b4050b32d204b5f4c6fcbO.jpg" class="product-img" alt="Elliptical Cross Trainer">
+        <h3 class="product-title">Elliptical Cross Trainer</h3>
+        <p class="product-desc">מכשיר אליפטי לאימון כל הגוף.</p>
+        <a href="https://s.click.aliexpress.com/e/_c3cVKkV" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+
+      <div class="product-box">
+        <img src="https://ae-pic-a1.aliexpress-media.com/kf/S8402b3bb911d4e3c93a79d7463a6adaf5.jpg" class="product-img" alt="Under Desk Elliptical">
+        <h3 class="product-title">Under Desk Elliptical</h3>
+        <p class="product-desc">מכשיר אליפטי קטן לעבודה מול שולחן.</p>
+        <a href="https://s.click.aliexpress.com/e/_c4lM1CC1" target="_blank" rel="nofollow" class="product-btn">לצפייה במוצר</a>
+        <p class="disclosure">* קישור שותפים מ-AliExpress.</p>
+      </div>
+    </div>
+  </div>
+
+  </div>
+
+  
+
